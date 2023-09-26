@@ -1,0 +1,36 @@
+       h2 { 
+      align-items: center;
+       font-variant: inherit;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: oblique;
+        font-size: large;
+        color: rgb(0, 13, 131);
+        }
+    i {
+      font-variant: normal;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: normal;
+      font-size: medium;
+      color: rgb(0, 13, 131);
+      }
+      body {
+      background-image: url(petshop.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      }
+      .btn{
+      width: 100%;
+      color: blue;
+      padding: 2px;
+      font-size: 15px;
+      cursor: pointer;
+      margin: 12px 0;
+      }
+      .signup input[type="text"], input[type="password"], input[type="date"]{
+        border: none;
+        border-bottom: 3px solid rgb(16, 46, 241);
+        background: transparent;
+        outline: none;
+        height: 40px;
+        color: blue;
+      }
