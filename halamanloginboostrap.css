@@ -1,0 +1,55 @@
+<style>
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #ececec;
+}
+.box-area{
+    width: 930px;
+}
+.right-box{
+    padding: 40px 30px 40px 40px;
+}
+::placeholder{
+    font-size: 16px;
+}
+.rounded-4{
+    border-radius: 20px;
+}
+.rounded-5{
+    border-radius: 30px;
+}
+.boxkanan{
+    right: box;
+
+}
+.tengah{
+    align-items: center;
+}
+.heading{
+    header: text;
+    margin-bottom: 4;
+}
+.input1{
+    margin-bottom: 3;
+}
+.img{
+    margin-bottom: 3;
+}
+.text{
+    text: white;
+    font-size: 30;
+}
+.text1{
+    text:white;
+    text: wrap;
+    text: center;
+    font-size: 15;
+}
+.container1{
+    justify-content: center;
+    align-items: center;
+}
+.col1{
+    justify-content: center;
+    align-items: center;
+}
